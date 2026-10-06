@@ -190,3 +190,6 @@ models--*
 Icon*
 dialogs
 .runs
+
+# voice model cache
+.cortexkit/
